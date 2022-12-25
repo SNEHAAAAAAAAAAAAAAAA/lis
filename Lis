@@ -1,0 +1,13 @@
+test_list = [1, 2, 3]
+x = test_list.reverse()
+print(x) 
+print(test_list) 
+
+
+
+O/p....
+
+None
+[3, 2, 1]
+
+[Program finished]
